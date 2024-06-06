@@ -1,0 +1,702 @@
+[
+    {
+        "before": {
+            "vin": "AKKODIS4XU8E1BWSZ",
+            "name": "AKKODIS4XU8E1BWSZ",
+            "status": "Available",
+            "id": 5324
+        },
+        "after": {
+            "vin": "AKKODIS4XU8E1BWSZ",
+            "name": "AKKODIS4XU8E1BWSZ",
+            "status": "Sold",
+            "id": 5324
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISFSO4Q9M3IV",
+            "name": "AKKODISFSO4Q9M3IV",
+            "status": "Available",
+            "id": 5326
+        },
+        "after": {
+            "vin": "AKKODISFSO4Q9M3IV",
+            "name": "AKKODISFSO4Q9M3IV",
+            "status": "Sold",
+            "id": 5326
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS24L8F1DHO0",
+            "name": "AKKODIS24L8F1DHO0",
+            "status": "Available",
+            "id": 5328
+        },
+        "after": {
+            "vin": "AKKODIS24L8F1DHO0",
+            "name": "AKKODIS24L8F1DHO0",
+            "status": "Sold",
+            "id": 5328
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS2GP3O1HZV7",
+            "name": "AKKODIS2GP3O1HZV7",
+            "status": "Available",
+            "id": 5330
+        },
+        "after": {
+            "vin": "AKKODIS2GP3O1HZV7",
+            "name": "AKKODIS2GP3O1HZV7",
+            "status": "Sold",
+            "id": 5330
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISHUE42PCZ7D",
+            "name": "AKKODISHUE42PCZ7D",
+            "status": "Available",
+            "id": 5332
+        },
+        "after": {
+            "vin": "AKKODISHUE42PCZ7D",
+            "name": "AKKODISHUE42PCZ7D",
+            "status": "Sold",
+            "id": 5332
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISQTED7W0LBI",
+            "name": "AKKODISQTED7W0LBI",
+            "status": "Available",
+            "id": 5334
+        },
+        "after": {
+            "vin": "AKKODISQTED7W0LBI",
+            "name": "AKKODISQTED7W0LBI",
+            "status": "Sold",
+            "id": 5334
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIST6Y5S08W4M",
+            "name": "AKKODIST6Y5S08W4M",
+            "status": "Available",
+            "id": 5336
+        },
+        "after": {
+            "vin": "AKKODIST6Y5S08W4M",
+            "name": "AKKODIST6Y5S08W4M",
+            "status": "Sold",
+            "id": 5336
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS8I3OBATQZK",
+            "name": "AKKODIS8I3OBATQZK",
+            "status": "Available",
+            "id": 5338
+        },
+        "after": {
+            "vin": "AKKODIS8I3OBATQZK",
+            "name": "AKKODIS8I3OBATQZK",
+            "status": "Sold",
+            "id": 5338
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISJ0YX61RZI5",
+            "name": "AKKODISJ0YX61RZI5",
+            "status": "Available",
+            "id": 5340
+        },
+        "after": {
+            "vin": "AKKODISJ0YX61RZI5",
+            "name": "AKKODISJ0YX61RZI5",
+            "status": "Sold",
+            "id": 5340
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS706YJE4LCX",
+            "name": "AKKODIS706YJE4LCX",
+            "status": "Available",
+            "id": 5342
+        },
+        "after": {
+            "vin": "AKKODIS706YJE4LCX",
+            "name": "AKKODIS706YJE4LCX",
+            "status": "Sold",
+            "id": 5342
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS7PQTX48VUH",
+            "name": "AKKODIS7PQTX48VUH",
+            "status": "Available",
+            "id": 5344
+        },
+        "after": {
+            "vin": "AKKODIS7PQTX48VUH",
+            "name": "AKKODIS7PQTX48VUH",
+            "status": "Sold",
+            "id": 5344
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISID2GY95ZOP",
+            "name": "AKKODISID2GY95ZOP",
+            "status": "Available",
+            "id": 5346
+        },
+        "after": {
+            "vin": "AKKODISID2GY95ZOP",
+            "name": "AKKODISID2GY95ZOP",
+            "status": "Sold",
+            "id": 5346
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISOP9S538WDC",
+            "name": "AKKODISOP9S538WDC",
+            "status": "Available",
+            "id": 5348
+        },
+        "after": {
+            "vin": "AKKODISOP9S538WDC",
+            "name": "AKKODISOP9S538WDC",
+            "status": "Sold",
+            "id": 5348
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS2V83YWQI41",
+            "name": "AKKODIS2V83YWQI41",
+            "status": "Available",
+            "id": 5350
+        },
+        "after": {
+            "vin": "AKKODIS2V83YWQI41",
+            "name": "AKKODIS2V83YWQI41",
+            "status": "Sold",
+            "id": 5350
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISZWU67ODVM8",
+            "name": "AKKODISZWU67ODVM8",
+            "status": "Available",
+            "id": 5352
+        },
+        "after": {
+            "vin": "AKKODISZWU67ODVM8",
+            "name": "AKKODISZWU67ODVM8",
+            "status": "Sold",
+            "id": 5352
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS1SFIV9ZPT3",
+            "name": "AKKODIS1SFIV9ZPT3",
+            "status": "Available",
+            "id": 5354
+        },
+        "after": {
+            "vin": "AKKODIS1SFIV9ZPT3",
+            "name": "AKKODIS1SFIV9ZPT3",
+            "status": "Sold",
+            "id": 5354
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS20U3XQK9RL",
+            "name": "AKKODIS20U3XQK9RL",
+            "status": "Available",
+            "id": 5356
+        },
+        "after": {
+            "vin": "AKKODIS20U3XQK9RL",
+            "name": "AKKODIS20U3XQK9RL",
+            "status": "Sold",
+            "id": 5356
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISZ7LHI5SU20",
+            "name": "AKKODISZ7LHI5SU20",
+            "status": "Available",
+            "id": 5358
+        },
+        "after": {
+            "vin": "AKKODISZ7LHI5SU20",
+            "name": "AKKODISZ7LHI5SU20",
+            "status": "Sold",
+            "id": 5358
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISUHN0F36CQZ",
+            "name": "AKKODISUHN0F36CQZ",
+            "status": "Available",
+            "id": 5360
+        },
+        "after": {
+            "vin": "AKKODISUHN0F36CQZ",
+            "name": "AKKODISUHN0F36CQZ",
+            "status": "Sold",
+            "id": 5360
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISBWDURV2F9Q",
+            "name": "AKKODISBWDURV2F9Q",
+            "status": "Available",
+            "id": 5362
+        },
+        "after": {
+            "vin": "AKKODISBWDURV2F9Q",
+            "name": "AKKODISBWDURV2F9Q",
+            "status": "Sold",
+            "id": 5362
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISFXJEBVSKCP",
+            "name": "AKKODISFXJEBVSKCP",
+            "status": "Available",
+            "id": 5364
+        },
+        "after": {
+            "vin": "AKKODISFXJEBVSKCP",
+            "name": "AKKODISFXJEBVSKCP",
+            "status": "Sold",
+            "id": 5364
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISFOM0NDJ31B",
+            "name": "AKKODISFOM0NDJ31B",
+            "status": "Available",
+            "id": 5366
+        },
+        "after": {
+            "vin": "AKKODISFOM0NDJ31B",
+            "name": "AKKODISFOM0NDJ31B",
+            "status": "Sold",
+            "id": 5366
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISYVHA2XBR78",
+            "name": "AKKODISYVHA2XBR78",
+            "status": "Available",
+            "id": 5368
+        },
+        "after": {
+            "vin": "AKKODISYVHA2XBR78",
+            "name": "AKKODISYVHA2XBR78",
+            "status": "Sold",
+            "id": 5368
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS3TEXWMNKSQ",
+            "name": "AKKODIS3TEXWMNKSQ",
+            "status": "Available",
+            "id": 5370
+        },
+        "after": {
+            "vin": "AKKODIS3TEXWMNKSQ",
+            "name": "AKKODIS3TEXWMNKSQ",
+            "status": "Sold",
+            "id": 5370
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS0LMUEHI6QG",
+            "name": "AKKODIS0LMUEHI6QG",
+            "status": "Available",
+            "id": 5372
+        },
+        "after": {
+            "vin": "AKKODIS0LMUEHI6QG",
+            "name": "AKKODIS0LMUEHI6QG",
+            "status": "Sold",
+            "id": 5372
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISLN3DJBQYIR",
+            "name": "AKKODISLN3DJBQYIR",
+            "status": "Available",
+            "id": 5374
+        },
+        "after": {
+            "vin": "AKKODISLN3DJBQYIR",
+            "name": "AKKODISLN3DJBQYIR",
+            "status": "Sold",
+            "id": 5374
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISYP06WLBN5K",
+            "name": "AKKODISYP06WLBN5K",
+            "status": "Available",
+            "id": 5376
+        },
+        "after": {
+            "vin": "AKKODISYP06WLBN5K",
+            "name": "AKKODISYP06WLBN5K",
+            "status": "Sold",
+            "id": 5376
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISOEDC61X5WK",
+            "name": "AKKODISOEDC61X5WK",
+            "status": "Available",
+            "id": 5378
+        },
+        "after": {
+            "vin": "AKKODISOEDC61X5WK",
+            "name": "AKKODISOEDC61X5WK",
+            "status": "Sold",
+            "id": 5378
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISGRA9OCF405",
+            "name": "AKKODISGRA9OCF405",
+            "status": "Available",
+            "id": 5380
+        },
+        "after": {
+            "vin": "AKKODISGRA9OCF405",
+            "name": "AKKODISGRA9OCF405",
+            "status": "Sold",
+            "id": 5380
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISYDNG8HU0W2",
+            "name": "AKKODISYDNG8HU0W2",
+            "status": "Available",
+            "id": 5382
+        },
+        "after": {
+            "vin": "AKKODISYDNG8HU0W2",
+            "name": "AKKODISYDNG8HU0W2",
+            "status": "Sold",
+            "id": 5382
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS8WSY1AE495",
+            "name": "AKKODIS8WSY1AE495",
+            "status": "Available",
+            "id": 5384
+        },
+        "after": {
+            "vin": "AKKODIS8WSY1AE495",
+            "name": "AKKODIS8WSY1AE495",
+            "status": "Sold",
+            "id": 5384
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISUMFI8DVZWT",
+            "name": "AKKODISUMFI8DVZWT",
+            "status": "Available",
+            "id": 5386
+        },
+        "after": {
+            "vin": "AKKODISUMFI8DVZWT",
+            "name": "AKKODISUMFI8DVZWT",
+            "status": "Sold",
+            "id": 5386
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISLTY7NBRKWX",
+            "name": "AKKODISLTY7NBRKWX",
+            "status": "Available",
+            "id": 5388
+        },
+        "after": {
+            "vin": "AKKODISLTY7NBRKWX",
+            "name": "AKKODISLTY7NBRKWX",
+            "status": "Sold",
+            "id": 5388
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISR4EXA786V1",
+            "name": "AKKODISR4EXA786V1",
+            "status": "Available",
+            "id": 5390
+        },
+        "after": {
+            "vin": "AKKODISR4EXA786V1",
+            "name": "AKKODISR4EXA786V1",
+            "status": "Sold",
+            "id": 5390
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISGJ4MK7VPQC",
+            "name": "AKKODISGJ4MK7VPQC",
+            "status": "Available",
+            "id": 5392
+        },
+        "after": {
+            "vin": "AKKODISGJ4MK7VPQC",
+            "name": "AKKODISGJ4MK7VPQC",
+            "status": "Sold",
+            "id": 5392
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISRPJ5NKDQC0",
+            "name": "AKKODISRPJ5NKDQC0",
+            "status": "Available",
+            "id": 5394
+        },
+        "after": {
+            "vin": "AKKODISRPJ5NKDQC0",
+            "name": "AKKODISRPJ5NKDQC0",
+            "status": "Sold",
+            "id": 5394
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISGPNO7QDLC1",
+            "name": "AKKODISGPNO7QDLC1",
+            "status": "Available",
+            "id": 5396
+        },
+        "after": {
+            "vin": "AKKODISGPNO7QDLC1",
+            "name": "AKKODISGPNO7QDLC1",
+            "status": "Sold",
+            "id": 5396
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISNYFSWG1ZT9",
+            "name": "AKKODISNYFSWG1ZT9",
+            "status": "Available",
+            "id": 5398
+        },
+        "after": {
+            "vin": "AKKODISNYFSWG1ZT9",
+            "name": "AKKODISNYFSWG1ZT9",
+            "status": "Sold",
+            "id": 5398
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISNZ4P3OIH0X",
+            "name": "AKKODISNZ4P3OIH0X",
+            "status": "Available",
+            "id": 5400
+        },
+        "after": {
+            "vin": "AKKODISNZ4P3OIH0X",
+            "name": "AKKODISNZ4P3OIH0X",
+            "status": "Sold",
+            "id": 5400
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISJZOFYPS6CD",
+            "name": "AKKODISJZOFYPS6CD",
+            "status": "Available",
+            "id": 5402
+        },
+        "after": {
+            "vin": "AKKODISJZOFYPS6CD",
+            "name": "AKKODISJZOFYPS6CD",
+            "status": "Sold",
+            "id": 5402
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISTEFVO1Q0XW",
+            "name": "AKKODISTEFVO1Q0XW",
+            "status": "Available",
+            "id": 5404
+        },
+        "after": {
+            "vin": "AKKODISTEFVO1Q0XW",
+            "name": "AKKODISTEFVO1Q0XW",
+            "status": "Sold",
+            "id": 5404
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISE4URQDGL1M",
+            "name": "AKKODISE4URQDGL1M",
+            "status": "Available",
+            "id": 5406
+        },
+        "after": {
+            "vin": "AKKODISE4URQDGL1M",
+            "name": "AKKODISE4URQDGL1M",
+            "status": "Sold",
+            "id": 5406
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISYJPIMDA28T",
+            "name": "AKKODISYJPIMDA28T",
+            "status": "Available",
+            "id": 5408
+        },
+        "after": {
+            "vin": "AKKODISYJPIMDA28T",
+            "name": "AKKODISYJPIMDA28T",
+            "status": "Sold",
+            "id": 5408
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISB12IAK8MLR",
+            "name": "AKKODISB12IAK8MLR",
+            "status": "Available",
+            "id": 5410
+        },
+        "after": {
+            "vin": "AKKODISB12IAK8MLR",
+            "name": "AKKODISB12IAK8MLR",
+            "status": "Sold",
+            "id": 5410
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS06ZELFMICY",
+            "name": "AKKODIS06ZELFMICY",
+            "status": "Available",
+            "id": 5412
+        },
+        "after": {
+            "vin": "AKKODIS06ZELFMICY",
+            "name": "AKKODIS06ZELFMICY",
+            "status": "Sold",
+            "id": 5412
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISO7X1I0WKR5",
+            "name": "AKKODISO7X1I0WKR5",
+            "status": "Available",
+            "id": 5414
+        },
+        "after": {
+            "vin": "AKKODISO7X1I0WKR5",
+            "name": "AKKODISO7X1I0WKR5",
+            "status": "Sold",
+            "id": 5414
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS0LOUPDCA9M",
+            "name": "AKKODIS0LOUPDCA9M",
+            "status": "Available",
+            "id": 5416
+        },
+        "after": {
+            "vin": "AKKODIS0LOUPDCA9M",
+            "name": "AKKODIS0LOUPDCA9M",
+            "status": "Sold",
+            "id": 5416
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS8UIXBW2T3D",
+            "name": "AKKODIS8UIXBW2T3D",
+            "status": "Available",
+            "id": 5418
+        },
+        "after": {
+            "vin": "AKKODIS8UIXBW2T3D",
+            "name": "AKKODIS8UIXBW2T3D",
+            "status": "Sold",
+            "id": 5418
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODISQDNYWACTEJ",
+            "name": "AKKODISQDNYWACTEJ",
+            "status": "Available",
+            "id": 5420
+        },
+        "after": {
+            "vin": "AKKODISQDNYWACTEJ",
+            "name": "AKKODISQDNYWACTEJ",
+            "status": "Sold",
+            "id": 5420
+        }
+    },
+    {
+        "before": {
+            "vin": "AKKODIS4NIDJGECU2",
+            "name": "AKKODIS4NIDJGECU2",
+            "status": "Available",
+            "id": 5422
+        },
+        "after": {
+            "vin": "AKKODIS4NIDJGECU2",
+            "name": "AKKODIS4NIDJGECU2",
+            "status": "Sold",
+            "id": 5422
+        }
+    }
+]
