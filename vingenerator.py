@@ -137,6 +137,6 @@ def alter_vin(file, server_url, folder_path):
          
          
 def create_jsonlog(folder_path, name="vins"):
-    json_file = folder_path + name + ".json"
+    json_file = os.path.join(folder_path, name + ".json")
     json_obj = open(json_file,'a')
     return json_obj

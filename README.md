@@ -58,10 +58,10 @@ In order to run the code is necessary to have *python*, *fastapi*, *json2html* a
    The second report 02_Validating_VINs.html the response is 200 since the server is able to retrieve, however each VIN from list of 100 created by us will not be present. The server reply, will not contain the VIN list created moments before, due to an internal server error on the api endpoint create vehicle. 
    The third and last report, 03_Altering_Status.html, changing the status of every second VIN to "Sold" will not be possible 
    
-
 4. The code would be monitored in two situations, if the error happens in runtime, an error handling is in place and would report a string with "500 internal server error". 
-In case the server starts to run, unit testing was checked across all the api enpoints and the developer would know something was wrong with the server.   
+In case the server starts to run, unit testing was checked across all the api enpoints and the developer would know something was wrong with the server.
 
+**Note:** Akkodis in the virtualize local web server added an endpoint to delete all the vehicles for testing purposes. 
 
 ### **PROTOCOLS** 
 
@@ -87,3 +87,13 @@ Hence a testsuite setup as follows is feasible.
 - Any testcase of a MQTT call makes use of a MQTT-specific adapter. That adapter converts query parameters and a request schema into a MQTT message as well as MQTT messages and a response schema into returns.
 - Any testcase of a Protobuf call makes use of a Protobuf-specific adapter. That adapter converts query parameters and a request schema into a Protobuf message as well as Protobuf messages and a response schema into returns.
 - And so on...
+
+### **GITHUB**
+
+1. The GitHub repository can be found in [Akkodis Code](https://github.com/akkodisSolution/codeChallengeCariad) 
+   
+2. The GitHub Action can be found in [Testsuite Execution](https://github.com/akkodisSolution/codeChallengeCariad/tree/main/.github/workflows)  
+   
+3. The Artifacts and the Reports from the GitHub Action run can be found in the respective folders:
+   - *Artifacts/\**
+   - *Reports/\**

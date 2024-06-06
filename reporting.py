@@ -1,11 +1,12 @@
 import json
+import os
 from json2html import *
 from pathlib import Path
 
 
 def convert2html(json_file, folder_path, outputfilename = ""):
     if (outputfilename==""):
-        outputfilename = folder_path + Path(json_file).stem+".html"
+        outputfilename = os.path.join(folder_path, Path(json_file).stem+".html")
         html_fp = open(outputfilename,'w')
         
     with open(json_file, 'r') as json_fp:
