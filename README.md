@@ -92,8 +92,6 @@ Hence a testsuite setup as follows is feasible.
 
 1. The GitHub repository can be found in [Akkodis Code](https://github.com/akkodisSolution/codeChallengeCariad) 
    
-2. The GitHub Action can be found in [Testsuite Execution](https://github.com/akkodisSolution/codeChallengeCariad/tree/main/.github/workflows)  
+2. The GitHub Action code can be found in [Testsuite Execution](https://github.com/akkodisSolution/codeChallengeCariad/tree/main/.github/workflows)  
    
-3. The Artifacts and the Reports from the GitHub Action run can be found in the respective folders:
-   - *Artifacts/\**
-   - *Reports/\**
+3. The Artifacts and the Reports from the GitHub Action run can be found in [Run](https://github.com/akkodisSolution/codeChallengeCariad/actions/runs/9402975983/artifacts/1575585741)
