@@ -28,7 +28,7 @@ app = FastAPI()
 @app.head("/")
 @app.get("/")
 async def root():
-   return {"message": "Hello Cariad, this is Akkodis !"}
+   return {"message": "Hello Cariad, this is Akkodis I am at your service!"}
 
 
 @app.get("/vehicle/findByStatus")
